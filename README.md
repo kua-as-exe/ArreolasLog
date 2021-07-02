@@ -1,2 +1,2 @@
 # ArreolasLog
-Is this a blog? Fullstack blog with Nextjs and Strapi
+Is this a blog? Fullstack blog with Nextjs and Notion
